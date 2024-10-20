@@ -38,7 +38,7 @@ Time Complexity Analysis
 
     This is the sum of the first n-1 natural numbers.
 
-    The inner loop, therefore, contributes a time complexity of O(n2)O(n2).
+    The inner loop, therefore, contributes a time complexity of O(n2).
 
 Final Time Complexity
 
